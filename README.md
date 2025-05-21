@@ -25,20 +25,20 @@ This is the standalone **Payment Module** of the Lavendra Photography Booking Ma
 ---
 
 ## 📬 Optional Features
--Stripe Webhook integration (for verifying payment success)
--EmailJS for sending email receipts
--CSV/PDF report exports
+- Stripe Webhook integration (for verifying payment success)
+- EmailJS for sending email receipts
+- CSV/PDF report exports
 
-##👤 Admin Features
--View all payments
--Filter by date range
--Search by name/amount
--Export reports
+## 👤 Admin Features
+- View all payments
+- Filter by date range
+- Search by name/amount
+- Export reports
 
-##🔒 Security Notes
--Stripe keys are stored securely in .env
--Input validations are implemented on both frontend & backend
--Use HTTPS in production
+## 🔒 Security Notes
+- Stripe keys are stored securely in .env
+- Input validations are implemented on both frontend & backend
+- Use HTTPS in production
 
 ## 🤝 Combined Repository
 - If you're looking for the combined system with payments, inquiries, packages, gallery, etc., check out:
